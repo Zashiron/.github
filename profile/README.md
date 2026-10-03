@@ -31,7 +31,7 @@ Zashiron Ltd operates across full-stack application development, edge AI enginee
 
 ---
 
-### 🧠 1. Alpha — A Synthetic Mind
+### 🧠 1. Alpha A Synthetic Mind
 
 **Alpha** is an ongoing attempt to grow a **synthetic mind** rather than ship a traditional AI assistant. It is a local, private, brain-inspired cognitive architecture featuring a durable associative memory, an emotional system, intrinsic drives, a sense of self and of the user, an inner monologue, and plastic organs whose weights change with experience.
 
@@ -49,7 +49,7 @@ Zashiron Ltd operates across full-stack application development, edge AI enginee
 
 ---
 
-### 🎙️ 2. OpenVox — All-in-One Offline Voice Engine
+### 🎙️ 2. OpenVox All-in-One Offline Voice Engine
 
 <img src="https://raw.githubusercontent.com/headlessripper/OpenVox/main/docs/assets/openvox-icon.png" alt="OpenVox" width="100" />
 
@@ -70,7 +70,7 @@ Zashiron Ltd operates across full-stack application development, edge AI enginee
 
 ---
 
-### 🔐 3. Enclave — Encrypted Communication & Workspace Suite
+### 🔐 3. Enclave Encrypted Communication & Workspace Suite
 
 **Enclave** (formerly *SwiftDrop*, backend `com.zashiron.swiftdrop`) is a secure, self-hostable communication and workspace platform built with **Flutter** for Android and Windows. It operates local-network-first with direct peer-to-peer capabilities, falling back to a cloud relay when required.
 
@@ -84,7 +84,7 @@ Zashiron Ltd operates across full-stack application development, edge AI enginee
 
 ---
 
-### 🎬 4. Aretlyx — AI Video Intelligence Platform
+### 🎬 4. Aretlyx AI Video Intelligence Platform
 
 **Aretlyx** is an end-to-end multimodal AI platform engineered for automatic video editing, smart clipping, and highlight generation.
 
