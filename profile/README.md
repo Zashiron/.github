@@ -19,7 +19,7 @@ Zashiron Ltd operates across full-stack application development, edge AI enginee
 
 ## 🤖 Featured Product & Research Ecosystem
 
-### 🎬 1. [Aretlyx](https://aretlyx.app) — AI Video Intelligence Platform
+### 🎬 1. [Aretlyx](https://aretlyx.app) AI Video Intelligence Platform
 **Aretlyx** is an end-to-end multimodal AI video editing, auto-clipping, and highlight generation platform.
 * **Computer Vision:** Incorporates **YOLO11** object/face visual tracking for subject framing.
 * **Audio Intelligence:** Integrates **YAMNet** and **PANNs** for precise acoustic event detection, music/speech separation, and emphasis tagging.
@@ -27,7 +27,7 @@ Zashiron Ltd operates across full-stack application development, edge AI enginee
 
 ---
 
-### 🤖 2. Alpha-X — Windows AI Desktop Assistant
+### 🤖 2. Alpha Windows AI Desktop Assistant
 Originally developed under experimental research initializations, **Alpha-X** is an adaptive, system-integrated desktop assistant engineered to streamline workflows and enhance user productivity on Windows environments.
 * **Deep System Integration:** Context-aware task automation, shell commands, and file system management.
 * **Voice & NLP Pipeline:** Offline speech recognition, natural language conversational parsing, and low-latency response generation.
